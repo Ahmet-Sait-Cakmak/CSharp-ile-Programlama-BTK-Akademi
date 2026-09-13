@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="_14_01_Dictionary/_14_01_Dictionary.csproj" />
+  <Project Path="_14_02_SortedList/_14_02_SortedList.csproj" />
+  <Project Path="_14_03_ObservableCollection/_14_03_ObservableCollection.csproj" />
+  <Project Path="_14_04_HashSet/_14_04_HashSet.csproj" />
+</Solution>

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="_12_01_Ctor/_12_01_Ctor.csproj" />
+  <Project Path="_12_02_RefVal/_12_02_RefVal.csproj" />
+  <Project Path="_12_03_static/_12_03_static.csproj" />
+</Solution>

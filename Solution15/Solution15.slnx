@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Errors/Errors.csproj" />
+  <Project Path="_15_01_TryCatch/_15_01_TryCatch.csproj" />
+  <Project Path="_15_02_try_catch/_15_02_try_catch.csproj" />
+  <Project Path="_15_03_CustomException/_15_03_CustomException.csproj" />
+  <Project Path="_15_04_CustomExceptionManagement/_15_04_CustomExceptionManagement.csproj" />
+</Solution>

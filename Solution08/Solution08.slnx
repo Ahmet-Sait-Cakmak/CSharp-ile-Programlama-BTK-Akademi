@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="_08_01_OOPBasics/_08_01_OOPBasics.csproj" />
+  <Project Path="_08_02_Inheritance/_08_02_Inheritance.csproj" />
+  <Project Path="_08_03_VirtualOverride/_08_03_VirtualOverride.csproj" />
+  <Project Path="_08_04_HierarchicalInheritance/_08_04_HierarchicalInheritance.csproj" />
+</Solution>

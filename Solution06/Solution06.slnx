@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="_06_01_String/_06_01_String.csproj" />
+  <Project Path="_06_02_Ascii/_06_02_Ascii.csproj" />
+  <Project Path="_06_03_Concat/_06_03_Concat.csproj" Id="6c46da35-01cf-4a6a-afec-865991947b22" />
+  <Project Path="_06_04_Escape/_06_04_Escape.csproj" Id="41c226ed-52fe-4a2b-bb8f-e5d60ca12e71" />
+  <Project Path="_06_05_Compare/_06_05_Compare.csproj" />
+  <Project Path="_06_06_Sorting/_06_06_Sorting.csproj" />
+  <Project Path="_06_07_Format/_06_07_Format.csproj" Id="becb902b-17f0-44e6-ae8d-59fdc8b45006" />
+  <Project Path="_06_08_StringBuilder/_06_08_StringBuilder.csproj" />
+</Solution>

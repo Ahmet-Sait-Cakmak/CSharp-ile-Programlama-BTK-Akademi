@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CoreLib/CoreLib.csproj" Id="071676d3-3e3b-4cd7-88f3-ac934f673e0c" />
+  <Project Path="_10_01_AccessModifiers/_11_01_AccessModifiers.csproj" Id="44610e1b-8457-4b89-9303-6e18331bfc90" />
+  <Project Path="_10_02_ArrayList/_11_02_ArrayList.csproj" Id="d4e37117-fc7b-4b0a-98f6-93e21ec75782" />
+  <Project Path="_11_03_ArrayListWithOOP/_11_03_ArrayListWithOOP.csproj" Id="3a96bf6f-a2b4-40cf-b835-da635b274c35" />
+</Solution>

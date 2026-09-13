@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="_13_01_ArrayList/_13_01_ArrayList.csproj" />
+  <Project Path="_13_02_List/_13_02_List.csproj" />
+  <Project Path="_13_03_List/_13_03_List.csproj" />
+  <Project Path="_13_04_Generic/_13_04_Generic.csproj" />
+  <Project Path="_13_05_LinkedList/_13_05_LinkedList.csproj" />
+  <Project Path="_13_06_Stack/_13_06_Stack.csproj" Id="0b590275-1700-467b-a6cc-68fb060b5f66" />
+  <Project Path="_13_07_Queue/_13_07_Queue.csproj" Id="bbd0b945-8a45-4581-8c04-8b27fdcee7de" />
+</Solution>

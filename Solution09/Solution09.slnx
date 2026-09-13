@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="_09_01_Interface/_09_01_Interface.csproj" />
+  <Project Path="_09_02_Behaviour/_09_02_Behaviour.csproj" />
+  <Project Path="_09_03_MultipleInterfaceInheritance/_09_03_MultipleInterfaceInheritance.csproj" />
+</Solution>

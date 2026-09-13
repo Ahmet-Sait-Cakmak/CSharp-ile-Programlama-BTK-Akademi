@@ -1,0 +1,3 @@
+Baslangic log kaydi.3.09.2026 16:25:15 : Kullanici sisteme giris yapti.
+3.09.2026 16:25:15 : Veri guncelleme islemi gerceklestirildi.
+Kullanici giris yapti.

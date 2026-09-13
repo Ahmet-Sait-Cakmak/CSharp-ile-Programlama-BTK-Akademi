@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="02_02_Variable/_02_02_Variable.csproj" />
+  <Project Path="_02_01_Hello_World/_02_01_Hello_World.csproj" />
+  <Project Path="_02_03_IO/_02_03_IO.csproj" />
+  <Project Path="_02_04_NullAndNullable/_02_04_NullAndNullable.csproj" />
+</Solution>
